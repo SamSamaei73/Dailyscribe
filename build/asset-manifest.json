@@ -1,0 +1,28 @@
+{
+  "files": {
+    "main.css": "/static/css/main.d9338e52.css",
+    "main.js": "/static/js/main.0832f35c.js",
+    "static/media/clip.mp4": "/static/media/clip.99f8a47f987f9f54c60b.mp4",
+    "static/media/fullchart.jpg": "/static/media/fullchart.a9c50bc3957b5b3a2f34.jpg",
+    "static/media/farakhan 1.jpg": "/static/media/farakhan 1.4157d30f9ed67e6f9271.jpg",
+    "static/media/navbar.jpeg": "/static/media/navbar.0f800f728d0ed9569e17.jpeg",
+    "static/media/dailyscribe-01.png": "/static/media/dailyscribe-01.8bdbce97e235c194ec8b.png",
+    "static/media/Roboto-Light.ttf": "/static/media/Roboto-Light.7cedccda2feb66b96d7a.ttf",
+    "static/media/map.jpg": "/static/media/map.4fe8547e787b88fb5524.jpg",
+    "static/media/BLKCHCRY.ttf": "/static/media/BLKCHCRY.7d521baec2350e17620c.ttf",
+    "static/media/Far.Nazanin.ttf": "/static/media/Far.Nazanin.a1764d620b06312a872b.ttf",
+    "static/media/A Nasr.ttf": "/static/media/A Nasr.ccbbe4618d8edd592518.ttf",
+    "static/media/Yekan.ttf": "/static/media/Yekan.012789e6e9f8b9a4929f.ttf",
+    "static/media/B-Ziba_0.ttf": "/static/media/B-Ziba_0.2b441058912d79960a84.ttf",
+    "static/media/zahra.jpeg": "/static/media/zahra.4ac53a348e5f4d0571d4.jpeg",
+    "static/media/fereshteh.jpeg": "/static/media/fereshteh.408de1835e9c3de5acad.jpeg",
+    "static/media/Mj_Casablanca-Heavy.ttf": "/static/media/Mj_Casablanca-Heavy.a709ff3452b816772c9e.ttf",
+    "index.html": "/index.html",
+    "main.d9338e52.css.map": "/static/css/main.d9338e52.css.map",
+    "main.0832f35c.js.map": "/static/js/main.0832f35c.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d9338e52.css",
+    "static/js/main.0832f35c.js"
+  ]
+}
